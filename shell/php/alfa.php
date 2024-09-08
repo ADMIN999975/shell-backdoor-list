@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html amp lang="id">
 <head>
-    <meta name="google-site-verification" content="Psx8ZoYSTCB6y1MTTZ2g_MNWFBp-mvMXcOQL5tNMQBs" />   
+    google-site-verification: google6dc410e0f198f157.html  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
